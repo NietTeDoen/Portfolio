@@ -24,8 +24,24 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/hfhaa/RiderProjects/Portfolio/Portfolio/Portfolio/Portfolio/Components/Left-Panel.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMZWZ0LVBhbmVsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hfhaa/RiderProjects/Portfolio/Portfolio/Portfolio/Portfolio/Components/News-List.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOZXdzLUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hfhaa/RiderProjects/Portfolio/Portfolio/Portfolio/Portfolio/Components/Pages/About-me.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dC1tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hfhaa/RiderProjects/Portfolio/Portfolio/Portfolio/Portfolio/Components/Pages/Contact-me.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250YWN0LW1lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hfhaa/RiderProjects/Portfolio/Portfolio/Portfolio/Portfolio/Components/Pages/Downloads.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb3dubG9hZHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hfhaa/RiderProjects/Portfolio/Portfolio/Portfolio/Portfolio/Components/Pages/Error.razor]
@@ -34,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/hfhaa/RiderProjects/Portfolio/Portfolio/Portfolio/Portfolio/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hfhaa/RiderProjects/Portfolio/Portfolio/Portfolio/Portfolio/Components/Pages/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9qZWN0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hfhaa/RiderProjects/Portfolio/Portfolio/Portfolio/Portfolio/Components/Profile-Icon.razor]

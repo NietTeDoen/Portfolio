@@ -13,25 +13,35 @@
         <div class="container text-center">
             <div class="row">
                 <div class="col p-0">
-                    <button style="width: 100%">Home</button>
+                    <NavLink href="/" class="retro-button">Home</NavLink>
                 </div>
                 <div class="col p-0">
-                    <button style="width: 100%">Projects</button>
+                    <NavLink href="/projects" class="retro-button">Projects</NavLink>
                 </div>
                 <div class="col p-0">
-                    <button style="width: 100%">Downloads</button>
+                    <NavLink href="/downloads" class="retro-button">Downloads</NavLink>
                 </div>
                 <div class="col p-0">
-                    <button style="width: 100%">About me</button>
+                    <NavLink href="/about-me" class="retro-button">About me</NavLink>
                 </div>
                 <div class="col p-0">
-                    <button style="width: 100%">Contact me</button>
+                    <NavLink href="/contact-me" class="retro-button">Contact me</NavLink>
                 </div>
             </div>
         </div>
 
         <article class="content p-0 bg-white" style="width: 100%; padding: 0 0 6px 0 !important;">
-            @Body
+            <div id="line" class="bg-primary-subtle" style="height: 10px; width: 750px;">
+
+            </div>
+            <div class="container text-center p-0" style="max-width: 750px;">
+                <div class="d-flex">
+                    <div id="Left-Panel" style="width: 173px; flex: 0 0 173px; max-width: 173px;">
+                        <Left_Panel/>
+                    </div>
+                    @Body
+                </div>
+            </div>
         </article>
         
         <div id="Footer">
@@ -47,3 +57,28 @@
     <a href="." class="reload">Reload</a>
     <span class="dismiss">🗙</span>
 </div>
+
+<style>
+    .retro-button {
+        display: block;
+        width: 100%;
+        padding: 2px;
+        text-align: center;
+        border: 1px solid #000;
+        background-color: #e0e0e0;
+        color: #000;
+        text-decoration: none;
+        font-family: monospace;
+        font-size: 16px;
+        cursor: pointer;
+        max-height: 29px;
+    }
+    
+    .retro-button:hover {
+        background-color: #c0c0c0;
+    }
+    
+    .retro-button:active {
+        background-color: #a0a0a0;
+    }
+</style>
