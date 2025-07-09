@@ -12,6 +12,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Q0H0L4HBZrM81Rf8iE8cuCyc6z0eqE6Zl7ESrP1m04c="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3232"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Q0H0L4HBZrM81Rf8iE8cuCyc6z0eqE6Zl7ESrP1m04c=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Jul 2025 10:12:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Portfolio/Assets/Xbanner.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Xbanner.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-17WCsgsHYW3Dieyam3SwBo0COPNRfuQqHsClJW20DwQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15147"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002217WCsgsHYW3Dieyam3SwBo0COPNRfuQqHsClJW20DwQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Jul 2025 12:01:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Portfolio/Assets/Xbanner.xi8oxiotg2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Xbanner.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xi8oxiotg2"},{"Name":"integrity","Value":"sha256-17WCsgsHYW3Dieyam3SwBo0COPNRfuQqHsClJW20DwQ="},{"Name":"label","Value":"_content/Portfolio/Assets/Xbanner.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15147"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002217WCsgsHYW3Dieyam3SwBo0COPNRfuQqHsClJW20DwQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Jul 2025 12:01:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Portfolio/favicon.ifv42okdf2.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

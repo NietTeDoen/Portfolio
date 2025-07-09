@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LXmNSXcR7FojEBPZnMCDyqzBe0Mc9BQ+d/BBDwyI3iQ=",
+  "Hash": "f8OdVwX2+IMeefIJhuLukrjsDXFaUot7cVKFEUm/VrQ=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -1065,6 +1065,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\hfhaa\\RiderProjects\\Portfolio\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\Assets\\Xbanner.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hfhaa\\RiderProjects\\Portfolio\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "Assets/Xbanner#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xi8oxiotg2",
+      "Integrity": "17WCsgsHYW3Dieyam3SwBo0COPNRfuQqHsClJW20DwQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Xbanner.png"
     },
     {
       "Identity": "C:\\Users\\hfhaa\\RiderProjects\\Portfolio\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\favicon.png",
@@ -2308,6 +2329,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-iy88WggDIdare+kkw0SEUEZVU5E/xPzLRhVU1HsawIw="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Xbanner.png",
+      "AssetFile": "C:\\Users\\hfhaa\\RiderProjects\\Portfolio\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\Assets\\Xbanner.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"17WCsgsHYW3Dieyam3SwBo0COPNRfuQqHsClJW20DwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:01:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-17WCsgsHYW3Dieyam3SwBo0COPNRfuQqHsClJW20DwQ="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Xbanner.xi8oxiotg2.png",
+      "AssetFile": "C:\\Users\\hfhaa\\RiderProjects\\Portfolio\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\Assets\\Xbanner.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"17WCsgsHYW3Dieyam3SwBo0COPNRfuQqHsClJW20DwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:01:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xi8oxiotg2"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Xbanner.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-17WCsgsHYW3Dieyam3SwBo0COPNRfuQqHsClJW20DwQ="
         }
       ]
     },

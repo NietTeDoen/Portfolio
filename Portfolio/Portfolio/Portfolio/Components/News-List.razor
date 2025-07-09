@@ -1,0 +1,31 @@
+<ul class="p-0 border border-black" style="list-style: none; font-size: small; width: 153.8px; margin: 0 auto; text-align: left" >
+        @for (int i = 0; i < NewsList.Count; i++)
+    {
+        <li style="font-size: xx-small; margin-left: 10px">&#9654; <a style="font-size: small" href="@NewsList[i].path">@NewsList[i].text</a></li>
+    }
+</ul>
+
+@code {
+    private List<ListModel> NewsList = new();
+
+    protected override void OnInitialized()
+    {
+        AddNewsList();
+    }
+    
+    private void AddNewsList()
+    {
+        NewsList.Add(new ListModel { text = "Recommendation", path = "/recommendation"});
+        NewsList.Add(new ListModel { text = "Magazine", path = "/magazine"});
+        NewsList.Add(new ListModel { text = "Projects", path = "/projects"});
+        NewsList.Add(new ListModel { text = "Github", path = "https://github.com/NietTeDoen"});
+        NewsList.Add(new ListModel { text = "Other", path = "/other"});
+        NewsList.Add(new ListModel { text = "Update", path = "/update"});
+    }
+    
+    public class ListModel
+    {
+        public string text {get; set;}
+        public string path { get; set; }
+    }
+}

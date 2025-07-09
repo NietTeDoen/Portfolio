@@ -76,3 +76,4 @@ C:\Users\hfhaa\RiderProjects\Portfolio\Portfolio\Portfolio\Portfolio\obj\Debug\n
 C:\Users\hfhaa\RiderProjects\Portfolio\Portfolio\Portfolio\Portfolio\obj\Debug\net9.0\compressed\3vkrp9z1r6-nek7b913qd.gz
 C:\Users\hfhaa\RiderProjects\Portfolio\Portfolio\Portfolio\Portfolio\obj\Debug\net9.0\compressed\gl612mpinz-zub09dkrxp.gz
 C:\Users\hfhaa\RiderProjects\Portfolio\Portfolio\Portfolio\Portfolio\obj\Debug\net9.0\compressed\r0hgljsl91-3w4ex039f4.gz
+C:\Users\hfhaa\RiderProjects\Portfolio\Portfolio\Portfolio\Portfolio\obj\Debug\net9.0\Portfolio.sourcelink.json
